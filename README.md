@@ -64,6 +64,7 @@ Configuration of QCY earbuds is officially restricted to the proprietary mobile 
 | Device | Status |
 |---|---|
 | MeloBuds Pro | ✅ Validated |
+| AilyBuds Pro (HT10) | Battery, firmware, Normal and Adaptive ANC validated on macOS; Transparency is unsupported and blocked |
 | MeloBuds N70 | 🚧 Planned |
 | MeloBuds N60 | 🚧 Planned |
 | MeloBuds N50 | 🚧 Planned |
